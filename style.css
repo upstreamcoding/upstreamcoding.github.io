@@ -16,3 +16,7 @@ header h1 {
 .websites {
   width: 80%;
 }
+
+a i {
+  color: black;
+}
