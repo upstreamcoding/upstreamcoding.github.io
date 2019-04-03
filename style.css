@@ -9,6 +9,10 @@ header {
   color: white
 }
 
+header h1 {
+  font-family: 'Pacifico', cursive;
+}
+
 .websites {
   width: 80%;
 }
